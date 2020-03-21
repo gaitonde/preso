@@ -12,4 +12,4 @@ An application architecture for React
 
 ---
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+![Flux Explained](https://forum.attainu.com/uploads/default/original/1X/bbed57a5749d49e1bc0216653fa73fb6e06f00a5.png)
